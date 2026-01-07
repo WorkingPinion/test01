@@ -2,4 +2,3 @@
 02  push
 03  revert hard
 04  clear
-05  push
