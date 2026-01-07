@@ -4,4 +4,5 @@
 03  revert hard
 04  clear
 06  push
+07  reset head~1
 
